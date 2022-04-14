@@ -1,4 +1,4 @@
-package com.demo.pattern.creational.method_factory;
+package com.demo.pattern.creational.abstract_factory;
 
 public interface Button {
     public void paint();

@@ -1,9 +1,9 @@
-package com.demo.pattern.creational.method_factory;
+package com.demo.pattern.creational.abstract_factory;
 
-import com.demo.pattern.creational.method_factory.factory.GuiFactory;
-import com.demo.pattern.creational.method_factory.factory.MacFactory;
-import com.demo.pattern.creational.method_factory.factory.WindowFactory;
-import com.demo.pattern.creational.method_factory.main.Application;
+import com.demo.pattern.creational.abstract_factory.factory.GuiFactory;
+import com.demo.pattern.creational.abstract_factory.factory.MacFactory;
+import com.demo.pattern.creational.abstract_factory.factory.WindowFactory;
+import com.demo.pattern.creational.abstract_factory.main.Application;
 
 import java.util.Locale;
 

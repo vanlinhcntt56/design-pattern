@@ -1,7 +1,7 @@
-package com.demo.pattern.creational.method_factory.main;
+package com.demo.pattern.creational.abstract_factory.main;
 
-import com.demo.pattern.creational.method_factory.Button;
-import com.demo.pattern.creational.method_factory.factory.GuiFactory;
+import com.demo.pattern.creational.abstract_factory.Button;
+import com.demo.pattern.creational.abstract_factory.factory.GuiFactory;
 
 public class Application {
     private Button button;
